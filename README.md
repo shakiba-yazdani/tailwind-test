@@ -1,2 +1,2 @@
 # tailwind-test
-i make a test project for tailwindcss library 
+i make a test project for the tailwindcss library 
